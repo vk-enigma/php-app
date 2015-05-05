@@ -1,0 +1,5 @@
+{
+    "require": {
+        "volter/mini_framework": "dev-master"
+    }
+}
